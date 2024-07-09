@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/Jay-suk)
+![](https://komarev.com/ghpvc/?username=your-github-Jay-suk&style=flat-square)
+
